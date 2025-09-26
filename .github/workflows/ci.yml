@@ -30,7 +30,7 @@ jobs:
       run: npm run lint
       
     - name: Run tests
-      run: npm test
+      run: npm run test:ci
       
     - name: Build check
       run: npx expo prebuild --platform all --no-install
