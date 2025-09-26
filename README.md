@@ -1,4 +1,4 @@
-# Neura - React Native Design System
+# Neura - React Native Design System 🚀
 
 Production-ready design system for React Native with Expo. Responsive, with full TypeScript support.
 
