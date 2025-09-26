@@ -1,23 +1,17 @@
-# Neura - React Native Design System 🚀
+# Neura 
 
-Production-ready design system for React Native with Expo. Responsive, with full TypeScript support.
-
-## ✨ Features
-
-- **Complete Theme System**: Light/dark mode, semantic colors
-- **TypeScript**: Full type safety
-
-## 🚀 Quick Start
+A React Native app built with Expo
+## Quick Start
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Reda1337/Neura.git
 cd Neura
 npm install
-npx expo run
+npx expo start
 ```
 
-## � Documentation
+## 📚 Architecture
 
-- [Design System Guide](./DESIGN_SYSTEM.md) - Complete technical documentation
-- [Component Reference](./docs/COMPONENTS.md) - Component APIs and props
-- [Theme System](./docs/THEME.md) - Colors, typography, spacing
+- [Component Guide](./docs/COMPONENTS.md) - Reusable UI components
+- [Theme System](./docs/THEME.md) - Design tokens and styling
+- [Development Guide](./DESIGN_SYSTEM.md) - Technical implementation details
